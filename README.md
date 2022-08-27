@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joni Laatikainen</h1>
 <h3 align="center">An enthusiastic IT student from Finland that is interested about Javascript technologies</h3>
 
-- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **jonilaatikaine@gmail.com**
 
