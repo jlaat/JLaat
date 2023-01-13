@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm Joni, an enthusiastic IT student from Finland. Currently my mind is focused on learning Web Development. Passionate about learning new technologies which I can leverage to solve problems I find interesting.</h3>
+<h3 align="center">I'm Joni, an enthusiastic IT student from Finland. Currently my mind is focused on learning Web Development. Passionate about learning new technologies which I find interesting.</h3>
 
 
 
