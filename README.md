@@ -92,7 +92,9 @@
   </tr>
  
 </table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLaat&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+## Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLaat&theme=tokyonight" alt="mystreak"/>
 <a href="https://www.linkedin.com/in/joni-laatikainen-a5061a221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
